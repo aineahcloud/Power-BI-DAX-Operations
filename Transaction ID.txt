@@ -1,0 +1,1227 @@
+Transaction ID,Date,Project ID,Project Name,Department,Expense Category,Sub-Category,Vendor,Description,Amount,Payment Method,Status
+1,2024-01-01,PROJ-001,Alpha Launch,Marketing,Travel,Flights,AeroJet Airlines,Flight to marketing conference,$850.50,Company Credit Card,Approved
+2,2024-01-01,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,TechFlow Solutions,Monthly software license,$1500.00,Bank Transfer,Approved
+3,2024-01-02,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,OfficeMax Inc.,Printer paper and ink,$45.75,Company Credit Card,Approved
+4,2024-01-02,PROJ-001,Alpha Launch,Marketing,Marketing,Digital Ads,AdSense,Q1 ad campaign budget,$2500.00,Bank Transfer,Approved
+5,2024-01-03,PROJ-004,Delta R&D,Research,Payroll,Contractor,Data Analytics Corp.,Data analysis services,$3000.00,Bank Transfer,Approved
+6,2024-01-03,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,Circuit boards for prototype,$780.20,Company Credit Card,Approved
+7,2024-01-04,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+8,2024-01-04,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Cloud server costs,$120.00,Company Credit Card,Approved
+9,2024-01-05,PROJ-003,Gamma Integration,Sales,Travel,Meals,Local Diner,Client lunch meeting,$65.40,Company Credit Card,Approved
+10,2024-01-05,PROJ-004,Delta R&D,Research,Software,SaaS Subscription,BioTech Tools,Lab software subscription,$850.00,Bank Transfer,Approved
+11,2024-01-06,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Branded pens and notebooks,$215.00,Company Credit Card,Approved
+12,2024-01-06,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+13,2024-01-07,PROJ-005,Epsilon Dev,Engineering,Supplies,Office Supplies,Office Depot,Ergonomic keyboard,$85.00,Company Credit Card,Approved
+14,2024-01-07,PROJ-003,Gamma Integration,Sales,Marketing,Client Gifts,GiftBasket Co.,Holiday gift for client,$125.00,Company Credit Card,Approved
+15,2024-01-08,PROJ-004,Delta R&D,Research,Travel,Flights,FlyHigh Airlines,Flight to lab research facility,$520.00,Company Credit Card,Approved
+16,2024-01-08,PROJ-001,Alpha Launch,Marketing,Software,Design Tools,Design Suite Pro,Annual license fee,$1800.00,Bank Transfer,Approved
+17,2024-01-09,PROJ-002,Beta Test,Engineering,Travel,Meals,Corporate Dining,Team lunch,$95.00,Company Credit Card,Approved
+18,2024-01-09,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,IDE license,$200.00,Bank Transfer,Approved
+19,2024-01-10,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Inn & Suites,Hotel for sales meeting,$180.00,Company Credit Card,Approved
+20,2024-01-10,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Test tubes and beakers,$250.00,Company Credit Card,Approved
+21,2024-01-11,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Product launch event space,$5000.00,Bank Transfer,Approved
+22,2024-01-11,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+23,2024-01-12,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,USB-C cables,$25.00,Company Credit Card,Approved
+24,2024-01-12,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly CRM subscription,$150.00,Bank Transfer,Approved
+25,2024-01-13,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$110.00,Company Credit Card,Approved
+26,2024-01-13,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+27,2024-01-14,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hotel California,Hotel for vendor meeting,$220.00,Company Credit Card,Approved
+28,2024-01-14,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+29,2024-01-15,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual subscription,$800.00,Bank Transfer,Approved
+30,2024-01-15,PROJ-004,Delta R&D,Research,Payroll,Contractor,Lab Consultant,Lab consultation fees,$1500.00,Bank Transfer,Approved
+31,2024-01-16,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Monthly social media ads,$300.00,Company Credit Card,Approved
+32,2024-01-16,PROJ-002,Beta Test,Engineering,Supplies,Hardware,Hardware Depot,Screws and bolts,$12.50,Petty Cash,Approved
+33,2024-01-17,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizza Place,Late-night team dinner,$75.00,Company Credit Card,Approved
+34,2024-01-17,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+35,2024-01-18,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license,$1500.00,Bank Transfer,Approved
+36,2024-01-18,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Press release distribution,$900.00,Bank Transfer,Approved
+37,2024-01-19,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,Project management software,$100.00,Company Credit Card,Approved
+38,2024-01-19,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hackathon hotel stay,$280.00,Company Credit Card,Approved
+39,2024-01-20,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+40,2024-01-20,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+41,2024-01-21,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for a week,$1400.00,Company Credit Card,Approved
+42,2024-01-21,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+43,2024-01-22,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,Electro Parts,Wiring and connectors,$45.00,Petty Cash,Approved
+44,2024-01-22,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+45,2024-01-23,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+46,2024-01-23,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+47,2024-01-24,PROJ-002,Beta Test,Engineering,Travel,Flights,FlyHigh Airlines,Flight to supplier,$410.00,Company Credit Card,Approved
+48,2024-01-24,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly cloud costs,$1800.00,Bank Transfer,Approved
+49,2024-01-25,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard and markers,$90.00,Company Credit Card,Approved
+50,2024-01-25,PROJ-004,Delta R&D,Research,Travel,Accommodation,Grand Hotel,Hotel for conference,$250.00,Company Credit Card,Approved
+51,2024-01-26,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,More ads,$300.00,Company Credit Card,Approved
+52,2024-01-26,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+53,2024-01-27,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless mouse,$40.00,Company Credit Card,Approved
+54,2024-01-27,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly subscription,$150.00,Bank Transfer,Approved
+55,2024-01-28,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+56,2024-01-28,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,PR retainer fee,$1500.00,Bank Transfer,Approved
+57,2024-01-29,PROJ-002,Beta Test,Engineering,Travel,Meals,Cafe,Team coffee break,$35.00,Petty Cash,Approved
+58,2024-01-29,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+59,2024-01-30,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Quarterly CRM fee,$450.00,Bank Transfer,Approved
+60,2024-01-30,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical reagents,$320.00,Company Credit Card,Approved
+61,2024-01-31,PROJ-001,Alpha Launch,Marketing,Marketing,Digital Ads,AdSense,Quarterly ad campaign review,$150.00,Company Credit Card,Approved
+62,2024-01-31,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,TechFlow Solutions,Additional user license,$500.00,Bank Transfer,Approved
+63,2024-02-01,PROJ-005,Epsilon Dev,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor site,$380.00,Company Credit Card,Approved
+64,2024-02-01,PROJ-003,Gamma Integration,Sales,Travel,Meals,Italian Restaurant,Dinner with client,$120.00,Company Credit Card,Approved
+65,2024-02-02,PROJ-004,Delta R&D,Research,Payroll,Contractor,Data Analytics Corp.,Data modeling services,$2500.00,Bank Transfer,Approved
+66,2024-02-02,PROJ-001,Alpha Launch,Marketing,Supplies,Office Supplies,OfficeMax Inc.,Toner cartridges,$110.00,Company Credit Card,Approved
+67,2024-02-03,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+68,2024-02-03,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+69,2024-02-04,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Annual subscription,$200.00,Bank Transfer,Approved
+70,2024-02-04,PROJ-004,Delta R&D,Research,Travel,Accommodation,Hilton,Research trip hotel stay,$300.00,Company Credit Card,Approved
+71,2024-02-05,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+72,2024-02-05,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+73,2024-02-06,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Server upgrade,$500.00,Company Credit Card,Approved
+74,2024-02-06,PROJ-003,Gamma Integration,Sales,Marketing,Digital Ads,LinkedIn Ads,Targeted ad campaign,$750.00,Bank Transfer,Approved
+75,2024-02-07,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical supplies,$150.00,Company Credit Card,Approved
+76,2024-02-07,PROJ-001,Alpha Launch,Marketing,Travel,Transportation,Rent-A-Car,Car rental,$120.00,Company Credit Card,Approved
+77,2024-02-08,PROJ-002,Beta Test,Engineering,Travel,Meals,Diner,Team breakfast,$45.00,Petty Cash,Approved
+78,2024-02-08,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+79,2024-02-09,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Additional user license,$50.00,Bank Transfer,Approved
+80,2024-02-09,PROJ-004,Delta R&D,Research,Payroll,Contractor,Lab Consultant,Additional consultation,$800.00,Bank Transfer,Approved
+81,2024-02-10,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Event press kit,$250.00,Company Credit Card,Approved
+82,2024-02-10,PROJ-002,Beta Test,Engineering,Supplies,Hardware,Hardware Depot,Electrical components,$80.00,Company Credit Card,Approved
+83,2024-02-11,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Budget hotel stay,$90.00,Company Credit Card,Approved
+84,2024-02-11,PROJ-003,Gamma Integration,Sales,Travel,Flights,FlyHigh Airlines,Client visit flight,$420.00,Company Credit Card,Approved
+85,2024-02-12,PROJ-004,Delta R&D,Research,Software,SaaS Subscription,BioTech Tools,Renew annual license,$850.00,Bank Transfer,Approved
+86,2024-02-12,PROJ-001,Alpha Launch,Marketing,Software,Design Tools,Design Suite Pro,New user license,$150.00,Company Credit Card,Approved
+87,2024-02-13,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,Quarterly license renewal,$300.00,Company Credit Card,Approved
+88,2024-02-13,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Chinese Restaurant,Team lunch,$65.00,Company Credit Card,Approved
+89,2024-02-14,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard markers,$20.00,Petty Cash,Approved
+90,2024-02-14,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+91,2024-02-15,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Venue deposit,$2500.00,Bank Transfer,Approved
+92,2024-02-15,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+93,2024-02-16,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+94,2024-02-16,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$200.00,Company Credit Card,Approved
+95,2024-02-17,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$95.00,Company Credit Card,Approved
+96,2024-02-17,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,SEO audit,$400.00,Bank Transfer,Approved
+97,2024-02-18,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+98,2024-02-18,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+99,2024-02-19,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk chair,$150.00,Company Credit Card,Approved
+100,2024-02-19,PROJ-004,Delta R&D,Research,Payroll,Contractor,Data Analytics Corp.,Final data report,$1000.00,Bank Transfer,Approved
+101,2024-02-20,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+102,2024-02-20,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,Prototype components,$600.00,Company Credit Card,Approved
+103,2024-02-21,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+104,2024-02-21,PROJ-003,Gamma Integration,Sales,Marketing,Digital Ads,AdSense,Ad spend on new campaign,$800.00,Bank Transfer,Approved
+105,2024-02-22,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+106,2024-02-22,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+107,2024-02-23,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+108,2024-02-23,PROJ-005,Epsilon Dev,Engineering,Software,SaaS Subscription,Slack,Team communication tool,$80.00,Company Credit Card,Approved
+109,2024-02-24,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual renewal,$800.00,Bank Transfer,Approved
+110,2024-02-24,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+111,2024-02-25,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Inn & Suites,Conference hotel,$180.00,Company Credit Card,Approved
+112,2024-02-25,PROJ-002,Beta Test,Engineering,Supplies,Office Supplies,Staples,Notebooks,$30.00,Petty Cash,Approved
+113,2024-02-26,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+114,2024-02-26,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+115,2024-02-27,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+116,2024-02-27,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$450.00,Company Credit Card,Approved
+117,2024-02-28,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$480.00,Company Credit Card,Approved
+118,2024-02-28,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Plugin license,$25.00,Company Credit Card,Approved
+119,2024-02-29,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent B,Quarterly commission,$1500.00,Bank Transfer,Approved
+120,2024-02-29,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+121,2024-03-01,PROJ-001,Alpha Launch,Marketing,Travel,Flights,FlyHigh Airlines,Flight for conference,$600.00,Company Credit Card,Approved
+122,2024-03-01,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly cloud costs,$1800.00,Bank Transfer,Approved
+123,2024-03-02,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Hackathon hotel,$95.00,Company Credit Card,Approved
+124,2024-03-02,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Additional storage,$50.00,Bank Transfer,Approved
+125,2024-03-03,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$105.00,Company Credit Card,Approved
+126,2024-03-03,PROJ-001,Alpha Launch,Marketing,Marketing,Digital Ads,AdSense,Monthly ad budget,$500.00,Bank Transfer,Approved
+127,2024-03-04,PROJ-002,Beta Test,Engineering,Travel,Meals,Italian Restaurant,Team lunch,$80.00,Company Credit Card,Approved
+128,2024-03-04,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+129,2024-03-05,PROJ-003,Gamma Integration,Sales,Marketing,Client Gifts,GiftBasket Co.,New client gift,$85.00,Company Credit Card,Approved
+130,2024-03-05,PROJ-004,Delta R&D,Research,Software,SaaS Subscription,BioTech Tools,Lab software upgrade,$250.00,Bank Transfer,Approved
+131,2024-03-06,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Conference swag,$300.00,Company Credit Card,Approved
+132,2024-03-06,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,New team license,$100.00,Company Credit Card,Approved
+133,2024-03-07,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Subway,Lunch on the go,$15.00,Petty Cash,Approved
+134,2024-03-07,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Flight for client meeting,$380.00,Company Credit Card,Approved
+135,2024-03-08,PROJ-004,Delta R&D,Research,Payroll,Contractor,Lab Consultant,Final consultation,$500.00,Bank Transfer,Approved
+136,2024-03-08,PROJ-001,Alpha Launch,Marketing,Marketing,Digital Ads,AdSense,Ad spend,$400.00,Company Credit Card,Approved
+137,2024-03-09,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for a week,$1400.00,Company Credit Card,Approved
+138,2024-03-09,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Additional license,$200.00,Bank Transfer,Approved
+139,2024-03-10,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Additional user,$50.00,Company Credit Card,Approved
+140,2024-03-10,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemicals,$150.00,Company Credit Card,Approved
+141,2024-03-11,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event catering,$750.00,Bank Transfer,Approved
+142,2024-03-11,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+143,2024-03-12,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,HDMI cables,$25.00,Petty Cash,Approved
+144,2024-03-12,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+145,2024-03-13,PROJ-004,Delta R&D,Research,Travel,Flights,FlyHigh Airlines,Flight for research,$520.00,Company Credit Card,Approved
+146,2024-03-13,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Business cards,$80.00,Company Credit Card,Approved
+147,2024-03-14,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Vendor meeting hotel,$200.00,Company Credit Card,Approved
+148,2024-03-14,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+149,2024-03-15,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+150,2024-03-15,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Lab supplies,$150.00,Company Credit Card,Approved
+151,2024-03-16,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Monthly ad budget,$300.00,Company Credit Card,Approved
+152,2024-03-16,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Annual license renewal,$450.00,Company Credit Card,Approved
+153,2024-03-17,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizza Place,Team dinner,$75.00,Company Credit Card,Approved
+154,2024-03-17,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel for client visit,$250.00,Company Credit Card,Approved
+155,2024-03-18,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+156,2024-03-18,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Annual renewal,$2500.00,Bank Transfer,Approved
+157,2024-03-19,PROJ-002,Beta Test,Engineering,Supplies,Hardware,Hardware Depot,Electrical wires,$45.00,Petty Cash,Approved
+158,2024-03-19,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Server maintenance,$120.00,Company Credit Card,Approved
+159,2024-03-20,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,OfficeMax Inc.,New desk lamp,$40.00,Company Credit Card,Approved
+160,2024-03-20,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$110.00,Company Credit Card,Approved
+161,2024-03-21,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+162,2024-03-21,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+163,2024-03-22,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+164,2024-03-22,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+165,2024-03-23,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+166,2024-03-23,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Swag bags,$250.00,Company Credit Card,Approved
+167,2024-03-24,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+168,2024-03-24,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,Electro Parts,Wiring and connectors,$45.00,Petty Cash,Approved
+169,2024-03-25,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent C,Quarterly commission,$1800.00,Bank Transfer,Approved
+170,2024-03-25,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+171,2024-03-26,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for conference,$1400.00,Company Credit Card,Approved
+172,2024-03-26,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,New user license,$25.00,Company Credit Card,Approved
+173,2024-03-27,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Steakhouse,Team dinner,$150.00,Company Credit Card,Approved
+174,2024-03-27,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+175,2024-03-28,PROJ-004,Delta R&D,Research,Travel,Accommodation,Grand Hotel,Hotel for conference,$250.00,Company Credit Card,Approved
+176,2024-03-28,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+177,2024-03-29,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel for vendor meeting,$90.00,Company Credit Card,Approved
+178,2024-03-29,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+179,2024-03-30,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+180,2024-03-30,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+181,2024-03-31,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+182,2024-03-31,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+183,2024-04-01,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+184,2024-04-01,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+185,2024-04-02,PROJ-004,Delta R&D,Research,Payroll,Contractor,Data Analytics Corp.,Data analysis services,$2500.00,Bank Transfer,Approved
+186,2024-04-02,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for a week,$1400.00,Company Credit Card,Approved
+187,2024-04-03,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,TechFlow Solutions,Monthly software license,$1500.00,Bank Transfer,Approved
+188,2024-04-03,PROJ-005,Epsilon Dev,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor site,$380.00,Company Credit Card,Approved
+189,2024-04-04,PROJ-003,Gamma Integration,Sales,Travel,Meals,Italian Restaurant,Dinner with client,$120.00,Company Credit Card,Approved
+190,2024-04-04,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemicals,$150.00,Company Credit Card,Approved
+191,2024-04-05,PROJ-001,Alpha Launch,Marketing,Marketing,Digital Ads,AdSense,Quarterly ad campaign review,$150.00,Company Credit Card,Approved
+192,2024-04-05,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,Circuit boards for prototype,$780.20,Company Credit Card,Approved
+193,2024-04-06,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+194,2024-04-06,PROJ-003,Gamma Integration,Sales,Marketing,Digital Ads,LinkedIn Ads,Targeted ad campaign,$750.00,Bank Transfer,Approved
+195,2024-04-07,PROJ-004,Delta R&D,Research,Travel,Accommodation,Grand Hotel,Research trip hotel stay,$300.00,Company Credit Card,Approved
+196,2024-04-07,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Branded pens and notebooks,$215.00,Company Credit Card,Approved
+197,2024-04-08,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+198,2024-04-08,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Server upgrade,$500.00,Company Credit Card,Approved
+199,2024-04-09,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Annual subscription,$200.00,Bank Transfer,Approved
+200,2024-04-09,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical supplies,$150.00,Company Credit Card,Approved
+201,2024-04-10,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+202,2024-04-10,PROJ-002,Beta Test,Engineering,Travel,Meals,Diner,Team breakfast,$45.00,Petty Cash,Approved
+203,2024-04-11,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+204,2024-04-11,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+205,2024-04-12,PROJ-004,Delta R&D,Research,Payroll,Contractor,Lab Consultant,Additional consultation,$800.00,Bank Transfer,Approved
+206,2024-04-12,PROJ-001,Alpha Launch,Marketing,Software,Design Tools,Design Suite Pro,Annual license fee,$1800.00,Bank Transfer,Approved
+207,2024-04-13,PROJ-002,Beta Test,Engineering,Supplies,Office Supplies,Office Depot,Ergonomic keyboard,$85.00,Company Credit Card,Approved
+208,2024-04-13,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizza Place,Late-night team dinner,$75.00,Company Credit Card,Approved
+209,2024-04-14,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard and markers,$90.00,Company Credit Card,Approved
+210,2024-04-14,PROJ-004,Delta R&D,Research,Travel,Flights,FlyHigh Airlines,Flight for research trip,$520.00,Company Credit Card,Approved
+211,2024-04-15,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Product launch event space,$5000.00,Bank Transfer,Approved
+212,2024-04-15,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+213,2024-04-16,PROJ-005,Epsilon Dev,Engineering,Software,SaaS Subscription,Slack,Team communication tool,$80.00,Company Credit Card,Approved
+214,2024-04-16,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+215,2024-04-17,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+216,2024-04-17,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for a week,$1400.00,Company Credit Card,Approved
+217,2024-04-18,PROJ-002,Beta Test,Engineering,Supplies,Hardware,Electro Parts,Wiring and connectors,$45.00,Petty Cash,Approved
+218,2024-04-18,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+219,2024-04-19,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+220,2024-04-19,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+221,2024-04-20,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Press release distribution,$900.00,Bank Transfer,Approved
+222,2024-04-20,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+223,2024-04-21,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+224,2024-04-21,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual renewal,$800.00,Bank Transfer,Approved
+225,2024-04-22,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+226,2024-04-22,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+227,2024-04-23,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+228,2024-04-23,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+229,2024-04-24,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard markers,$20.00,Petty Cash,Approved
+230,2024-04-24,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$95.00,Company Credit Card,Approved
+231,2024-04-25,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+232,2024-04-25,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+233,2024-04-26,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+234,2024-04-26,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Additional storage,$50.00,Bank Transfer,Approved
+235,2024-04-27,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research,$550.00,Company Credit Card,Approved
+236,2024-04-27,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+237,2024-04-28,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+238,2024-04-28,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+239,2024-04-29,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+240,2024-04-29,PROJ-004,Delta R&D,Research,Payroll,Contractor,Lab Consultant,Final consultation,$500.00,Bank Transfer,Approved
+241,2024-04-30,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+242,2024-04-30,PROJ-002,Beta Test,Engineering,Travel,Meals,Diner,Team lunch,$55.00,Company Credit Card,Approved
+243,2024-05-01,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+244,2024-05-01,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+245,2024-05-02,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+246,2024-05-02,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+247,2024-05-03,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+248,2024-05-03,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+249,2024-05-04,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+250,2024-05-04,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemicals,$90.00,Company Credit Card,Approved
+251,2024-05-05,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Swag bags,$250.00,Company Credit Card,Approved
+252,2024-05-05,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+253,2024-05-06,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+254,2024-05-06,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+255,2024-05-07,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+256,2024-05-07,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+257,2024-05-08,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+258,2024-05-08,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+259,2024-05-09,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+260,2024-05-09,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+261,2024-05-10,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+262,2024-05-10,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,Prototype components,$600.00,Company Credit Card,Approved
+263,2024-05-11,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+264,2024-05-11,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+265,2024-05-12,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+266,2024-05-12,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+267,2024-05-13,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+268,2024-05-13,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+269,2024-05-14,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+270,2024-05-14,PROJ-004,Delta R&D,Research,Travel,Accommodation,Motel 6,Hotel for conference,$90.00,Company Credit Card,Approved
+271,2024-05-15,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Annual renewal,$2500.00,Bank Transfer,Approved
+272,2024-05-15,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+273,2024-05-16,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+274,2024-05-16,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+275,2024-05-17,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+276,2024-05-17,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+277,2024-05-18,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+278,2024-05-18,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+279,2024-05-19,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+280,2024-05-19,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+281,2024-05-20,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+282,2024-05-20,PROJ-002,Beta Test,Engineering,Supplies,Hardware,Electro Parts,Wiring and connectors,$45.00,Petty Cash,Approved
+283,2024-05-21,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+284,2024-05-21,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard and markers,$90.00,Company Credit Card,Approved
+285,2024-05-22,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+286,2024-05-22,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Inn & Suites,Hotel for conference,$180.00,Company Credit Card,Approved
+287,2024-05-23,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+288,2024-05-23,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+289,2024-05-24,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent B,Quarterly commission,$1500.00,Bank Transfer,Approved
+290,2024-05-24,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+291,2024-05-25,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+292,2024-05-25,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+293,2024-05-26,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+294,2024-05-26,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual renewal,$800.00,Bank Transfer,Approved
+295,2024-05-27,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+296,2024-05-27,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+297,2024-05-28,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+298,2024-05-28,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+299,2024-05-29,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+300,2024-05-29,PROJ-004,Delta R&D,Research,Payroll,Contractor,Lab Consultant,Final consultation,$500.00,Bank Transfer,Approved
+301,2024-05-30,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+302,2024-05-30,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+303,2024-05-31,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+304,2024-05-31,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Additional storage,$50.00,Bank Transfer,Approved
+305,2024-06-01,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+306,2024-06-01,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+307,2024-06-02,PROJ-002,Beta Test,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+308,2024-06-02,PROJ-005,Epsilon Dev,Engineering,Software,SaaS Subscription,Slack,Team communication tool,$80.00,Company Credit Card,Approved
+309,2024-06-03,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+310,2024-06-03,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+311,2024-06-04,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+312,2024-06-04,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+313,2024-06-05,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+314,2024-06-05,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+315,2024-06-06,PROJ-004,Delta R&D,Research,Travel,Accommodation,Inn & Suites,Hotel for conference,$180.00,Company Credit Card,Approved
+316,2024-06-06,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+317,2024-06-07,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+318,2024-06-07,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+319,2024-06-08,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+320,2024-06-08,PROJ-004,Delta R&D,Research,Payroll,Contractor,Data Analytics Corp.,Data analysis services,$2500.00,Bank Transfer,Approved
+321,2024-06-09,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+322,2024-06-09,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+323,2024-06-10,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+324,2024-06-10,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+325,2024-06-11,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+326,2024-06-11,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+327,2024-06-12,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,New user license,$25.00,Company Credit Card,Approved
+328,2024-06-12,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizzeria,Late-night team dinner,$75.00,Company Credit Card,Approved
+329,2024-06-13,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard and markers,$90.00,Company Credit Card,Approved
+330,2024-06-13,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+331,2024-06-14,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for conference,$1400.00,Company Credit Card,Approved
+332,2024-06-14,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,Circuit boards for prototype,$780.20,Company Credit Card,Approved
+333,2024-06-15,PROJ-005,Epsilon Dev,Engineering,Software,SaaS Subscription,Slack,Team communication tool,$80.00,Company Credit Card,Approved
+334,2024-06-15,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+335,2024-06-16,PROJ-004,Delta R&D,Research,Travel,Flights,FlyHigh Airlines,Flight for research trip,$520.00,Company Credit Card,Approved
+336,2024-06-16,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+337,2024-06-17,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+338,2024-06-17,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+339,2024-06-18,PROJ-003,Gamma Integration,Sales,Marketing,Digital Ads,LinkedIn Ads,Targeted ad campaign,$750.00,Bank Transfer,Approved
+340,2024-06-18,PROJ-004,Delta R&D,Research,Payroll,Contractor,Lab Consultant,Final consultation,$500.00,Bank Transfer,Approved
+341,2024-06-19,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Press release distribution,$900.00,Bank Transfer,Approved
+342,2024-06-19,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+343,2024-06-20,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+344,2024-06-20,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual renewal,$800.00,Bank Transfer,Approved
+345,2024-06-21,PROJ-004,Delta R&D,Research,Travel,Accommodation,Grand Hotel,Research trip hotel stay,$300.00,Company Credit Card,Approved
+346,2024-06-21,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+347,2024-06-22,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+348,2024-06-22,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Steakhouse,Team dinner,$150.00,Company Credit Card,Approved
+349,2024-06-23,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard markers,$20.00,Petty Cash,Approved
+350,2024-06-23,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+351,2024-06-24,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+352,2024-06-24,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+353,2024-06-25,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+354,2024-06-25,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+355,2024-06-26,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+356,2024-06-26,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+357,2024-06-27,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+358,2024-06-27,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+359,2024-06-28,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+360,2024-06-28,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+361,2024-06-29,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Swag bags,$250.00,Company Credit Card,Approved
+362,2024-06-29,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+363,2024-06-30,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+364,2024-06-30,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+365,2024-07-01,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+366,2024-07-01,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+367,2024-07-02,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel stay for a night,$90.00,Company Credit Card,Approved
+368,2024-07-02,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+369,2024-07-03,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent C,Quarterly commission,$1800.00,Bank Transfer,Approved
+370,2024-07-03,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+371,2024-07-04,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+372,2024-07-04,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+373,2024-07-05,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Steakhouse,Team dinner,$150.00,Company Credit Card,Approved
+374,2024-07-05,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+375,2024-07-06,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+376,2024-07-06,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+377,2024-07-07,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+378,2024-07-07,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+379,2024-07-08,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+380,2024-07-08,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+381,2024-07-09,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Swag bags,$250.00,Company Credit Card,Approved
+382,2024-07-09,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+383,2024-07-10,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+384,2024-07-10,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+385,2024-07-11,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+386,2024-07-11,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+387,2024-07-12,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+388,2024-07-12,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+389,2024-07-13,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+390,2024-07-13,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+391,2024-07-14,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+392,2024-07-14,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+393,2024-07-15,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+394,2024-07-15,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard markers,$20.00,Petty Cash,Approved
+395,2024-07-16,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$95.00,Company Credit Card,Approved
+396,2024-07-16,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+397,2024-07-17,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,Prototype components,$600.00,Company Credit Card,Approved
+398,2024-07-17,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+399,2024-07-18,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+400,2024-07-18,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+401,2024-07-19,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+402,2024-07-19,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+403,2024-07-20,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+404,2024-07-20,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+405,2024-07-21,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+406,2024-07-21,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+407,2024-07-22,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+408,2024-07-22,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+409,2024-07-23,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+410,2024-07-23,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+411,2024-07-24,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+412,2024-07-24,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+413,2024-07-25,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+414,2024-07-25,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+415,2024-07-26,PROJ-004,Delta R&D,Research,Travel,Accommodation,Grand Hotel,Hotel for conference,$250.00,Company Credit Card,Approved
+416,2024-07-26,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+417,2024-07-27,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+418,2024-07-27,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+419,2024-07-28,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+420,2024-07-28,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+421,2024-07-29,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+422,2024-07-29,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel stay for a night,$90.00,Company Credit Card,Approved
+423,2024-07-30,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+424,2024-07-30,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+425,2024-07-31,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+426,2024-07-31,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+427,2024-08-01,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+428,2024-08-01,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+429,2024-08-02,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+430,2024-08-02,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+431,2024-08-03,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+432,2024-08-03,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+433,2024-08-04,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+434,2024-08-04,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+435,2024-08-05,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+436,2024-08-05,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+437,2024-08-06,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+438,2024-08-06,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+439,2024-08-07,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Inn & Suites,Hotel for client visit,$180.00,Company Credit Card,Approved
+440,2024-08-07,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical supplies,$150.00,Company Credit Card,Approved
+441,2024-08-08,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+442,2024-08-08,PROJ-002,Beta Test,Engineering,Travel,Meals,Diner,Team breakfast,$45.00,Petty Cash,Approved
+443,2024-08-09,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for hackathon,$280.00,Company Credit Card,Approved
+444,2024-08-09,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+445,2024-08-10,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+446,2024-08-10,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+447,2024-08-11,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+448,2024-08-11,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+449,2024-08-12,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+450,2024-08-12,PROJ-004,Delta R&D,Research,Travel,Flights,FlyHigh Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+451,2024-08-13,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+452,2024-08-13,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,Prototype components,$600.00,Company Credit Card,Approved
+453,2024-08-14,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+454,2024-08-14,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+455,2024-08-15,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+456,2024-08-15,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+457,2024-08-16,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel for vendor meeting,$90.00,Company Credit Card,Approved
+458,2024-08-16,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+459,2024-08-17,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+460,2024-08-17,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+461,2024-08-18,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+462,2024-08-18,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+463,2024-08-19,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+464,2024-08-19,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+465,2024-08-20,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+466,2024-08-20,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+467,2024-08-21,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+468,2024-08-21,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+469,2024-08-22,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent B,Quarterly commission,$1500.00,Bank Transfer,Approved
+470,2024-08-22,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+471,2024-08-23,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+472,2024-08-23,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+473,2024-08-24,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Steakhouse,Team dinner,$150.00,Company Credit Card,Approved
+474,2024-08-24,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual renewal,$800.00,Bank Transfer,Approved
+475,2024-08-25,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+476,2024-08-25,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+477,2024-08-26,PROJ-002,Beta Test,Engineering,Supplies,Office Supplies,Staples,Whiteboard and markers,$90.00,Company Credit Card,Approved
+478,2024-08-26,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Hotel for hackathon,$90.00,Company Credit Card,Approved
+479,2024-08-27,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+480,2024-08-27,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+481,2024-08-28,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for conference,$1400.00,Company Credit Card,Approved
+482,2024-08-28,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+483,2024-08-29,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+484,2024-08-29,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+485,2024-08-30,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+486,2024-08-30,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+487,2024-08-31,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+488,2024-08-31,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+489,2024-09-01,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+490,2024-09-01,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+491,2024-09-02,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+492,2024-09-02,PROJ-002,Beta Test,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+493,2024-09-03,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for a night,$90.00,Company Credit Card,Approved
+494,2024-09-03,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+495,2024-09-04,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+496,2024-09-04,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+497,2024-09-05,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+498,2024-09-05,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+499,2024-09-06,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Team dinner,$150.00,Company Credit Card,Approved
+500,2024-09-06,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+501,2024-09-07,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+502,2024-09-07,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+503,2024-09-08,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+504,2024-09-08,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+505,2024-09-09,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+506,2024-09-09,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+507,2024-09-10,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,New user license,$25.00,Company Credit Card,Approved
+508,2024-09-10,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+509,2024-09-11,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent B,Quarterly commission,$1500.00,Bank Transfer,Approved
+510,2024-09-11,PROJ-004,Delta R&D,Research,Travel,Accommodation,Motel 6,Hotel for conference,$90.00,Company Credit Card,Approved
+511,2024-09-12,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+512,2024-09-12,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+513,2024-09-13,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+514,2024-09-13,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard markers,$20.00,Petty Cash,Approved
+515,2024-09-14,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+516,2024-09-14,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+517,2024-09-15,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+518,2024-09-15,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+519,2024-09-16,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent C,Quarterly commission,$1800.00,Bank Transfer,Approved
+520,2024-09-16,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+521,2024-09-17,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+522,2024-09-17,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+523,2024-09-18,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+524,2024-09-18,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+525,2024-09-19,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+526,2024-09-19,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+527,2024-09-20,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+528,2024-09-20,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+529,2024-09-21,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+530,2024-09-21,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+531,2024-09-22,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+532,2024-09-22,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+533,2024-09-23,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+534,2024-09-23,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+535,2024-09-24,PROJ-004,Delta R&D,Research,Travel,Accommodation,Motel 6,Hotel for conference,$90.00,Company Credit Card,Approved
+536,2024-09-24,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+537,2024-09-25,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+538,2024-09-25,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+539,2024-09-26,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+540,2024-09-26,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+541,2024-09-27,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+542,2024-09-27,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+543,2024-09-28,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for hackathon,$280.00,Company Credit Card,Approved
+544,2024-09-28,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+545,2024-09-29,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical supplies,$150.00,Company Credit Card,Approved
+546,2024-09-29,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+547,2024-09-30,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+548,2024-09-30,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+549,2024-10-01,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+550,2024-10-01,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+551,2024-10-02,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+552,2024-10-02,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+553,2024-10-03,PROJ-005,Epsilon Dev,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor site,$380.00,Company Credit Card,Approved
+554,2024-10-03,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+555,2024-10-04,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+556,2024-10-04,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+557,2024-10-05,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+558,2024-10-05,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+559,2024-10-06,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+560,2024-10-06,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+561,2024-10-07,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+562,2024-10-07,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+563,2024-10-08,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+564,2024-10-08,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+565,2024-10-09,PROJ-004,Delta R&D,Research,Travel,Accommodation,Inn & Suites,Hotel for conference,$180.00,Company Credit Card,Approved
+566,2024-10-09,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Swag bags,$250.00,Company Credit Card,Approved
+567,2024-10-10,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+568,2024-10-10,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+569,2024-10-11,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+570,2024-10-11,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+571,2024-10-12,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+572,2024-10-12,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+573,2024-10-13,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+574,2024-10-13,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual renewal,$800.00,Bank Transfer,Approved
+575,2024-10-14,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+576,2024-10-14,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+577,2024-10-15,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,Prototype components,$600.00,Company Credit Card,Approved
+578,2024-10-15,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Hotel for hackathon,$90.00,Company Credit Card,Approved
+579,2024-10-16,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+580,2024-10-16,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+581,2024-10-17,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+582,2024-10-17,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+583,2024-10-18,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+584,2024-10-18,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+585,2024-10-19,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+586,2024-10-19,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for conference,$1400.00,Company Credit Card,Approved
+587,2024-10-20,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+588,2024-10-20,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$220.00,Company Credit Card,Approved
+589,2024-10-21,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent B,Quarterly commission,$1500.00,Bank Transfer,Approved
+590,2024-10-21,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+591,2024-10-22,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+592,2024-10-22,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for a week,$1400.00,Company Credit Card,Approved
+593,2024-10-23,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+594,2024-10-23,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+595,2024-10-24,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+596,2024-10-24,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+597,2024-10-25,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+598,2024-10-25,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for hackathon,$280.00,Company Credit Card,Approved
+599,2024-10-26,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+600,2024-10-26,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+601,2024-10-27,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+602,2024-10-27,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+603,2024-10-28,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+604,2024-10-28,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+605,2024-10-29,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+606,2024-10-29,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+607,2024-10-30,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+608,2024-10-30,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+609,2024-10-31,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+610,2024-10-31,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+611,2024-11-01,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+612,2024-11-01,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+613,2024-11-02,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+614,2024-11-02,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+615,2024-11-03,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+616,2024-11-03,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Swag bags,$250.00,Company Credit Card,Approved
+617,2024-11-04,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel stay for a night,$90.00,Company Credit Card,Approved
+618,2024-11-04,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+619,2024-11-05,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent C,Quarterly commission,$1800.00,Bank Transfer,Approved
+620,2024-11-05,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+621,2024-11-06,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+622,2024-11-06,PROJ-002,Beta Test,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+623,2024-11-07,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+624,2024-11-07,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+625,2024-11-08,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+626,2024-11-08,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+627,2024-11-09,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+628,2024-11-09,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for conference,$250.00,Company Credit Card,Approved
+629,2024-11-10,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+630,2024-11-10,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+631,2024-11-11,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+632,2024-11-11,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+633,2024-11-12,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+634,2024-11-12,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+635,2024-11-13,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+636,2024-11-13,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+637,2024-11-14,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+638,2024-11-14,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+639,2024-11-15,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+640,2024-11-15,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+641,2024-11-16,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+642,2024-11-16,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+643,2024-11-17,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+644,2024-11-17,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+645,2024-11-18,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+646,2024-11-18,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+647,2024-11-19,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$180.00,Company Credit Card,Approved
+648,2024-11-19,PROJ-005,Epsilon Dev,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor site,$380.00,Company Credit Card,Approved
+649,2024-11-20,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+650,2024-11-20,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+651,2024-11-21,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+652,2024-11-21,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+653,2024-11-22,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+654,2024-11-22,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+655,2024-11-23,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+656,2024-11-23,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Swag bags,$250.00,Company Credit Card,Approved
+657,2024-11-24,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+658,2024-11-24,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+659,2024-11-25,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+660,2024-11-25,PROJ-004,Delta R&D,Research,Payroll,Contractor,Data Analytics Corp.,Data analysis services,$2500.00,Bank Transfer,Approved
+661,2024-11-26,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+662,2024-11-26,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel stay for a night,$90.00,Company Credit Card,Approved
+663,2024-11-27,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+664,2024-11-27,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+665,2024-11-28,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+666,2024-11-28,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+667,2024-11-29,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+668,2024-11-29,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+669,2024-11-30,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+670,2024-11-30,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+671,2024-12-01,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+672,2024-12-01,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+673,2024-12-02,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+674,2024-12-02,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+675,2024-12-03,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+676,2024-12-03,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+677,2024-12-04,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+678,2024-12-04,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+679,2024-12-05,PROJ-003,Gamma Integration,Sales,Travel,Flights,FlyHigh Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+680,2024-12-05,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+681,2024-12-06,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+682,2024-12-06,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+683,2024-12-07,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+684,2024-12-07,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+685,2024-12-08,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+686,2024-12-08,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+687,2024-12-09,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+688,2024-12-09,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+689,2024-12-10,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+690,2024-12-10,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+691,2024-12-11,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+692,2024-12-11,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel for hackathon,$90.00,Company Credit Card,Approved
+693,2024-12-12,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+694,2024-12-12,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+695,2024-12-13,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+696,2024-12-13,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+697,2024-12-14,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+698,2024-12-14,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+699,2024-12-15,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+700,2024-12-15,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+701,2024-12-16,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+702,2024-12-16,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+703,2024-12-17,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+704,2024-12-17,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+705,2024-12-18,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+706,2024-12-18,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+707,2024-12-19,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+708,2024-12-19,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+709,2024-12-20,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Inn & Suites,Hotel for client visit,$180.00,Company Credit Card,Approved
+710,2024-12-20,PROJ-004,Delta R&D,Research,Payroll,Contractor,Data Analytics Corp.,Data analysis services,$2500.00,Bank Transfer,Approved
+711,2024-12-21,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+712,2024-12-21,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+713,2024-12-22,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+714,2024-12-22,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+715,2024-12-23,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+716,2024-12-23,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+717,2024-12-24,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Grand Hotel,Hotel for vendor meeting,$250.00,Company Credit Card,Approved
+718,2024-12-24,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+719,2024-12-25,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+720,2024-12-25,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+721,2024-12-26,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+722,2024-12-26,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+723,2024-12-27,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+724,2024-12-27,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+725,2024-12-28,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+726,2024-12-28,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+727,2024-12-29,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+728,2024-12-29,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+729,2024-12-30,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+730,2024-12-30,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+731,2024-12-31,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+732,2024-12-31,PROJ-002,Beta Test,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+733,2025-01-01,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+734,2025-01-01,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual renewal,$800.00,Bank Transfer,Approved
+735,2025-01-02,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+736,2025-01-02,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+737,2025-01-03,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,New user license,$25.00,Company Credit Card,Approved
+738,2025-01-03,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+739,2025-01-04,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard markers,$20.00,Petty Cash,Approved
+740,2025-01-04,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+741,2025-01-05,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+742,2025-01-05,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+743,2025-01-06,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+744,2025-01-06,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+745,2025-01-07,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+746,2025-01-07,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+747,2025-01-08,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+748,2025-01-08,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+749,2025-01-09,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+750,2025-01-09,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+751,2025-01-10,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+752,2025-01-10,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+753,2025-01-11,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+754,2025-01-11,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Inn & Suites,Hotel for client visit,$180.00,Company Credit Card,Approved
+755,2025-01-12,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+756,2025-01-12,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+757,2025-01-13,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+758,2025-01-13,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+759,2025-01-14,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+760,2025-01-14,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+761,2025-01-15,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+762,2025-01-15,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+763,2025-01-16,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+764,2025-01-16,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+765,2025-01-17,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$95.00,Company Credit Card,Approved
+766,2025-01-17,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+767,2025-01-18,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+768,2025-01-18,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+769,2025-01-19,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+770,2025-01-19,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+771,2025-01-20,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+772,2025-01-20,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+773,2025-01-21,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+774,2025-01-21,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+775,2025-01-22,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+776,2025-01-22,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+777,2025-01-23,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+778,2025-01-23,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Hotel for hackathon,$90.00,Company Credit Card,Approved
+779,2025-01-24,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+780,2025-01-24,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+781,2025-01-25,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+782,2025-01-25,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+783,2025-01-26,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+784,2025-01-26,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+785,2025-01-27,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+786,2025-01-27,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+787,2025-01-28,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+788,2025-01-28,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+789,2025-01-29,PROJ-003,Gamma Integration,Sales,Travel,Flights,FlyHigh Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+790,2025-01-29,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+791,2025-01-30,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+792,2025-01-30,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+793,2025-01-31,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+794,2025-01-31,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+795,2025-02-01,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+796,2025-02-01,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+797,2025-02-02,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+798,2025-02-02,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+799,2025-02-03,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+800,2025-02-03,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+801,2025-02-04,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+802,2025-02-04,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+803,2025-02-05,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+804,2025-02-05,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+805,2025-02-06,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+806,2025-02-06,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+807,2025-02-07,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+808,2025-02-07,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+809,2025-02-08,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+810,2025-02-08,PROJ-004,Delta R&D,Research,Payroll,Contractor,Data Analytics Corp.,Data analysis services,$2500.00,Bank Transfer,Approved
+811,2025-02-09,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+812,2025-02-09,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+813,2025-02-10,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Hotel for hackathon,$90.00,Company Credit Card,Approved
+814,2025-02-10,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+815,2025-02-11,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+816,2025-02-11,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+817,2025-02-12,PROJ-002,Beta Test,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+818,2025-02-12,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+819,2025-02-13,PROJ-003,Gamma Integration,Sales,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+820,2025-02-13,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+821,2025-02-14,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+822,2025-02-14,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+823,2025-02-15,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+824,2025-02-15,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+825,2025-02-16,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+826,2025-02-16,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+827,2025-02-17,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+828,2025-02-17,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+829,2025-02-18,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+830,2025-02-18,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+831,2025-02-19,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+832,2025-02-19,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+833,2025-02-20,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+834,2025-02-20,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent B,Quarterly commission,$1500.00,Bank Transfer,Approved
+835,2025-02-21,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+836,2025-02-21,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+837,2025-02-22,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+838,2025-02-22,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+839,2025-02-23,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+840,2025-02-23,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+841,2025-02-24,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+842,2025-02-24,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+843,2025-02-25,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+844,2025-02-25,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+845,2025-02-26,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+846,2025-02-26,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+847,2025-02-27,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+848,2025-02-27,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+849,2025-02-28,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Inn & Suites,Hotel for client visit,$180.00,Company Credit Card,Approved
+850,2025-02-28,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+851,2025-02-29,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+852,2025-02-29,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+853,2025-03-01,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Steakhouse,Team dinner,$150.00,Company Credit Card,Approved
+854,2025-03-01,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+855,2025-03-02,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+856,2025-03-02,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+857,2025-03-03,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+858,2025-03-03,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+859,2025-03-04,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+860,2025-03-04,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+861,2025-03-05,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+862,2025-03-05,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+863,2025-03-06,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+864,2025-03-06,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+865,2025-03-07,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+866,2025-03-07,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+867,2025-03-08,PROJ-002,Beta Test,Engineering,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+868,2025-03-08,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+869,2025-03-09,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Motel 6,Hotel stay for a night,$90.00,Company Credit Card,Approved
+870,2025-03-09,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+871,2025-03-10,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+872,2025-03-10,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+873,2025-03-11,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+874,2025-03-11,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+875,2025-03-12,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+876,2025-03-12,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+877,2025-03-13,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+878,2025-03-13,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+879,2025-03-14,PROJ-003,Gamma Integration,Sales,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+880,2025-03-14,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+881,2025-03-15,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+882,2025-03-15,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+883,2025-03-16,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+884,2025-03-16,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+885,2025-03-17,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+886,2025-03-17,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+887,2025-03-18,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+888,2025-03-18,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+889,2025-03-19,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+890,2025-03-19,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+891,2025-03-20,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+892,2025-03-20,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+893,2025-03-21,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Steakhouse,Team dinner,$150.00,Company Credit Card,Approved
+894,2025-03-21,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+895,2025-03-22,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+896,2025-03-22,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+897,2025-03-23,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+898,2025-03-23,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+899,2025-03-24,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+900,2025-03-24,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+901,2025-03-25,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+902,2025-03-25,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+903,2025-03-26,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+904,2025-03-26,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+905,2025-03-27,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+906,2025-03-27,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+907,2025-03-28,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+908,2025-03-28,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+909,2025-03-29,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+910,2025-03-29,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+911,2025-03-30,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+912,2025-03-30,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+913,2025-03-31,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+914,2025-03-31,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+915,2025-04-01,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+916,2025-04-01,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+917,2025-04-02,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+918,2025-04-02,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+919,2025-04-03,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+920,2025-04-03,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+921,2025-04-04,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+922,2025-04-04,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Grand Hotel,Hotel for vendor meeting,$250.00,Company Credit Card,Approved
+923,2025-04-05,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+924,2025-04-05,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent B,Quarterly commission,$1500.00,Bank Transfer,Approved
+925,2025-04-06,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+926,2025-04-06,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+927,2025-04-07,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+928,2025-04-07,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+929,2025-04-08,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+930,2025-04-08,PROJ-004,Delta R&D,Research,Travel,Accommodation,Motel 6,Hotel for conference,$90.00,Company Credit Card,Approved
+931,2025-04-09,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+932,2025-04-09,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$180.00,Company Credit Card,Approved
+933,2025-04-10,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+934,2025-04-10,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+935,2025-04-11,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+936,2025-04-11,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+937,2025-04-12,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+938,2025-04-12,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+939,2025-04-13,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+940,2025-04-13,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+941,2025-04-14,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+942,2025-04-14,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+943,2025-04-15,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+944,2025-04-15,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+945,2025-04-16,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+946,2025-04-16,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+947,2025-04-17,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+948,2025-04-17,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+949,2025-04-18,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Motel 6,Hotel for vendor meeting,$90.00,Company Credit Card,Approved
+950,2025-04-18,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+951,2025-04-19,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+952,2025-04-19,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+953,2025-04-20,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+954,2025-04-20,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+955,2025-04-21,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+956,2025-04-21,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+957,2025-04-22,PROJ-002,Beta Test,Engineering,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+958,2025-04-22,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+959,2025-04-23,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+960,2025-04-23,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+961,2025-04-24,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+962,2025-04-24,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+963,2025-04-25,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+964,2025-04-25,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+965,2025-04-26,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+966,2025-04-26,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+967,2025-04-27,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,Quarterly license renewal,$300.00,Company Credit Card,Approved
+968,2025-04-27,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+969,2025-04-28,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+970,2025-04-28,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+971,2025-04-29,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+972,2025-04-29,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+973,2025-04-30,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+974,2025-04-30,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+975,2025-05-01,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+976,2025-05-01,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+977,2025-05-02,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+978,2025-05-02,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+979,2025-05-03,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Motel 6,Hotel for vendor meeting,$90.00,Company Credit Card,Approved
+980,2025-05-03,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+981,2025-05-04,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+982,2025-05-04,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+983,2025-05-05,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+984,2025-05-05,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+985,2025-05-06,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+986,2025-05-06,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+987,2025-05-07,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+988,2025-05-07,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+989,2025-05-08,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Staples,Whiteboard markers,$20.00,Petty Cash,Approved
+990,2025-05-08,PROJ-004,Delta R&D,Research,Travel,Accommodation,Grand Hotel,Hotel for conference,$250.00,Company Credit Card,Approved
+991,2025-05-09,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+992,2025-05-09,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+993,2025-05-10,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+994,2025-05-10,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+995,2025-05-11,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+996,2025-05-11,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+997,2025-05-12,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+998,2025-05-12,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Hotel for hackathon,$90.00,Company Credit Card,Approved
+999,2025-05-13,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent C,Quarterly commission,$1800.00,Bank Transfer,Approved
+1000,2025-05-13,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+1001,2025-05-14,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+1002,2025-05-14,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+1003,2025-05-15,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+1004,2025-05-15,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+1005,2025-05-16,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+1006,2025-05-16,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1007,2025-05-17,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+1008,2025-05-17,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+1009,2025-05-18,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+1010,2025-05-18,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+1011,2025-05-19,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+1012,2025-05-19,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+1013,2025-05-20,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+1014,2025-05-20,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+1015,2025-05-21,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+1016,2025-05-21,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1017,2025-05-22,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+1018,2025-05-22,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+1019,2025-05-23,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+1020,2025-05-23,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+1021,2025-05-24,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1022,2025-05-24,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+1023,2025-05-25,PROJ-005,Epsilon Dev,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor site,$380.00,Company Credit Card,Approved
+1024,2025-05-25,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+1025,2025-05-26,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research,$120.00,Company Credit Card,Approved
+1026,2025-05-26,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+1027,2025-05-27,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+1028,2025-05-27,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+1029,2025-05-28,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Motel 6,Hotel for client visit,$90.00,Company Credit Card,Approved
+1030,2025-05-28,PROJ-004,Delta R&D,Research,Travel,Accommodation,Grand Hotel,Hotel for conference,$250.00,Company Credit Card,Approved
+1031,2025-05-29,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+1032,2025-05-29,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+1033,2025-05-30,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+1034,2025-05-30,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+1035,2025-05-31,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+1036,2025-05-31,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1037,2025-06-01,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+1038,2025-06-01,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee G,Bi-weekly salary,$3100.00,Bank Transfer,Approved
+1039,2025-06-02,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+1040,2025-06-02,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+1041,2025-06-03,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+1042,2025-06-03,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+1043,2025-06-04,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+1044,2025-06-04,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+1045,2025-06-05,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+1046,2025-06-05,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1047,2025-06-06,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+1048,2025-06-06,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+1049,2025-06-07,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+1050,2025-06-07,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+1051,2025-06-08,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+1052,2025-06-08,PROJ-002,Beta Test,Engineering,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+1053,2025-06-09,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+1054,2025-06-09,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent A,Quarterly commission,$1200.00,Bank Transfer,Approved
+1055,2025-06-10,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+1056,2025-06-10,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1057,2025-06-11,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+1058,2025-06-11,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+1059,2025-06-12,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Annual renewal,$800.00,Bank Transfer,Approved
+1060,2025-06-12,PROJ-004,Delta R&D,Research,Travel,Accommodation,Inn & Suites,Hotel for conference,$180.00,Company Credit Card,Approved
+1061,2025-06-13,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1062,2025-06-13,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+1063,2025-06-14,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+1064,2025-06-14,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+1065,2025-06-15,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+1066,2025-06-15,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+1067,2025-06-16,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel stay for a night,$90.00,Company Credit Card,Approved
+1068,2025-06-16,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+1069,2025-06-17,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+1070,2025-06-17,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+1071,2025-06-18,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1072,2025-06-18,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+1073,2025-06-19,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+1074,2025-06-19,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+1075,2025-06-20,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+1076,2025-06-20,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+1077,2025-06-21,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+1078,2025-06-21,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+1079,2025-06-22,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+1080,2025-06-22,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+1081,2025-06-23,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1082,2025-06-23,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+1083,2025-06-24,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+1084,2025-06-24,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+1085,2025-06-25,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+1086,2025-06-25,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+1087,2025-06-26,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+1088,2025-06-26,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+1089,2025-06-27,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+1090,2025-06-27,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+1091,2025-06-28,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1092,2025-06-28,PROJ-002,Beta Test,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+1093,2025-06-29,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+1094,2025-06-29,PROJ-003,Gamma Integration,Sales,Travel,Flights,AeroJet Airlines,Client visit flight,$350.00,Company Credit Card,Approved
+1095,2025-06-30,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+1096,2025-06-30,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+1097,2025-07-01,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+1098,2025-07-01,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Hotel for vendor meeting,$90.00,Company Credit Card,Approved
+1099,2025-07-02,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent C,Quarterly commission,$1800.00,Bank Transfer,Approved
+1100,2025-07-02,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+1101,2025-07-03,PROJ-001,Alpha Launch,Marketing,Supplies,Promotional Items,PromoPlus,Swag bags,$250.00,Company Credit Card,Approved
+1102,2025-07-03,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Grand Hotel,Hotel for vendor meeting,$250.00,Company Credit Card,Approved
+1103,2025-07-04,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee H,Bi-weekly salary,$3000.00,Bank Transfer,Approved
+1104,2025-07-04,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+1105,2025-07-05,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+1106,2025-07-05,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+1107,2025-07-06,PROJ-002,Beta Test,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+1108,2025-07-06,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+1109,2025-07-07,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+1110,2025-07-07,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+1111,2025-07-08,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1112,2025-07-08,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+1113,2025-07-09,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+1114,2025-07-09,PROJ-003,Gamma Integration,Sales,Software,SaaS Subscription,Zoom,Quarterly renewal,$50.00,Company Credit Card,Approved
+1115,2025-07-10,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+1116,2025-07-10,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1117,2025-07-11,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+1118,2025-07-11,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+1119,2025-07-12,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+1120,2025-07-12,PROJ-004,Delta R&D,Research,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+1121,2025-07-13,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+1122,2025-07-13,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel for vendor meeting,$90.00,Company Credit Card,Approved
+1123,2025-07-14,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+1124,2025-07-14,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+1125,2025-07-15,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+1126,2025-07-15,PROJ-001,Alpha Launch,Marketing,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+1127,2025-07-16,PROJ-002,Beta Test,Engineering,Travel,Meals,Steakhouse,Team dinner,$150.00,Company Credit Card,Approved
+1128,2025-07-16,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+1129,2025-07-17,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+1130,2025-07-17,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+1131,2025-07-18,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+1132,2025-07-18,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+1133,2025-07-19,PROJ-005,Epsilon Dev,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+1134,2025-07-19,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+1135,2025-07-20,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+1136,2025-07-20,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1137,2025-07-21,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+1138,2025-07-21,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+1139,2025-07-22,PROJ-003,Gamma Integration,Sales,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+1140,2025-07-22,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+1141,2025-07-23,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1142,2025-07-23,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Inn & Suites,Hotel for vendor meeting,$200.00,Company Credit Card,Approved
+1143,2025-07-24,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+1144,2025-07-24,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+1145,2025-07-25,PROJ-004,Delta R&D,Research,Travel,Accommodation,Grand Hotel,Hotel for conference,$250.00,Company Credit Card,Approved
+1146,2025-07-25,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+1147,2025-07-26,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+1148,2025-07-26,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+1149,2025-07-27,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+1150,2025-07-27,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+1151,2025-07-28,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+1152,2025-07-28,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Motel 6,Hotel stay for a night,$90.00,Company Credit Card,Approved
+1153,2025-07-29,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+1154,2025-07-29,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+1155,2025-07-30,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+1156,2025-07-30,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+1157,2025-07-31,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+1158,2025-07-31,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+1159,2025-08-01,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+1160,2025-08-01,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+1161,2025-08-02,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1162,2025-08-02,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+1163,2025-08-03,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,New feature license,$150.00,Company Credit Card,Approved
+1164,2025-08-03,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+1165,2025-08-04,PROJ-004,Delta R&D,Research,Travel,Meals,Subway,Client lunch,$25.00,Petty Cash,Approved
+1166,2025-08-04,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+1167,2025-08-05,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+1168,2025-08-05,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for hackathon,$280.00,Company Credit Card,Approved
+1169,2025-08-06,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+1170,2025-08-06,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+1171,2025-08-07,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1172,2025-08-07,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+1173,2025-08-08,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee A,Bi-weekly salary,$2500.00,Bank Transfer,Approved
+1174,2025-08-08,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Hilton,Hotel stay for client visit,$250.00,Company Credit Card,Approved
+1175,2025-08-09,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+1176,2025-08-09,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+1177,2025-08-10,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee B,Bi-weekly salary,$2800.00,Bank Transfer,Approved
+1178,2025-08-10,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+1179,2025-08-11,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Motel 6,Hotel for client visit,$90.00,Company Credit Card,Approved
+1180,2025-08-11,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Microscopes,$4500.00,Bank Transfer,Approved
+1181,2025-08-12,PROJ-001,Alpha Launch,Marketing,Marketing,SEO,SEO Gurus,Monthly SEO services,$500.00,Bank Transfer,Approved
+1182,2025-08-12,PROJ-002,Beta Test,Engineering,Software,SaaS Subscription,Jira,Quarterly license renewal,$300.00,Company Credit Card,Approved
+1183,2025-08-13,PROJ-005,Epsilon Dev,Engineering,Travel,Meals,Pizzeria,Team dinner,$85.00,Company Credit Card,Approved
+1184,2025-08-13,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+1185,2025-08-14,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+1186,2025-08-14,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event staff catering,$450.00,Company Credit Card,Approved
+1187,2025-08-15,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Grand Hotel,Hotel for vendor meeting,$250.00,Company Credit Card,Approved
+1188,2025-08-15,PROJ-005,Epsilon Dev,Engineering,Travel,Flights,FlyHigh Airlines,Flight to vendor site,$380.00,Company Credit Card,Approved
+1189,2025-08-16,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Inn & Suites,Hotel for client visit,$180.00,Company Credit Card,Approved
+1190,2025-08-16,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+1191,2025-08-17,PROJ-001,Alpha Launch,Marketing,Software,CRM,HubSpot,Monthly subscription,$250.00,Bank Transfer,Approved
+1192,2025-08-17,PROJ-002,Beta Test,Engineering,Travel,Flights,AeroJet Airlines,Flight to vendor,$410.00,Company Credit Card,Approved
+1193,2025-08-18,PROJ-005,Epsilon Dev,Engineering,Supplies,Electronics,Gadget Store,Wireless headphones,$80.00,Company Credit Card,Approved
+1194,2025-08-18,PROJ-003,Gamma Integration,Sales,Travel,Meals,Steakhouse,Client dinner,$210.00,Company Credit Card,Approved
+1195,2025-08-19,PROJ-004,Delta R&D,Research,Payroll,Salaries,Employee C,Bi-weekly salary,$3200.00,Bank Transfer,Approved
+1196,2025-08-19,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+1197,2025-08-20,PROJ-002,Beta Test,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+1198,2025-08-20,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee D,Bi-weekly salary,$3500.00,Bank Transfer,Approved
+1199,2025-08-21,PROJ-003,Gamma Integration,Sales,Supplies,Office Supplies,Office Depot,Desk monitor,$180.00,Company Credit Card,Approved
+1200,2025-08-21,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Consumables replenishment,$75.00,Company Credit Card,Approved
+1201,2025-08-22,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1202,2025-08-22,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for conference,$320.00,Company Credit Card,Approved
+1203,2025-08-23,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Motel 6,Hotel for hackathon,$90.00,Company Credit Card,Approved
+1204,2025-08-23,PROJ-003,Gamma Integration,Sales,Travel,Accommodation,Grand Hotel,Hotel for client visit,$250.00,Company Credit Card,Approved
+1205,2025-08-24,PROJ-004,Delta R&D,Research,Software,Data Analytics,DataGenius,Annual license renewal,$1500.00,Bank Transfer,Approved
+1206,2025-08-24,PROJ-001,Alpha Launch,Marketing,Supplies,Printed Materials,PrintShop,Product brochures,$450.00,Company Credit Card,Approved
+1207,2025-08-25,PROJ-002,Beta Test,Engineering,Software,Cloud Services,CloudBurst Inc.,Quarterly billing,$1800.00,Bank Transfer,Approved
+1208,2025-08-25,PROJ-005,Epsilon Dev,Engineering,Software,Development Tools,CodeWare Inc.,Bug tracking software,$50.00,Company Credit Card,Approved
+1209,2025-08-26,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+1210,2025-08-26,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,BioLab,Glassware and consumables,$120.00,Company Credit Card,Approved
+1211,2025-08-27,PROJ-001,Alpha Launch,Marketing,Marketing,Events,Event Planners,Event decorations,$200.00,Company Credit Card,Approved
+1212,2025-08-27,PROJ-002,Beta Test,Engineering,Payroll,Salaries,Employee E,Bi-weekly salary,$2600.00,Bank Transfer,Approved
+1213,2025-08-28,PROJ-005,Epsilon Dev,Engineering,Travel,Accommodation,Inn & Suites,Hotel for client visit,$180.00,Company Credit Card,Approved
+1214,2025-08-28,PROJ-003,Gamma Integration,Sales,Payroll,Commissions,Sales Agent C,Quarterly commission,$1800.00,Bank Transfer,Approved
+1215,2025-08-29,PROJ-004,Delta R&D,Research,Travel,Transportation,Rent-A-Car,Car rental for research trip,$120.00,Company Credit Card,Approved
+1216,2025-08-29,PROJ-001,Alpha Launch,Marketing,Marketing,PR,Public Relations Group,Media outreach,$800.00,Bank Transfer,Approved
+1217,2025-08-30,PROJ-002,Beta Test,Engineering,Software,Design Tools,SketchUp,Design software license,$450.00,Company Credit Card,Approved
+1218,2025-08-30,PROJ-005,Epsilon Dev,Engineering,Payroll,Salaries,Employee F,Bi-weekly salary,$2900.00,Bank Transfer,Approved
+1219,2025-08-31,PROJ-003,Gamma Integration,Sales,Software,CRM,SalesForce,Monthly subscription,$150.00,Bank Transfer,Approved
+1220,2025-08-31,PROJ-004,Delta R&D,Research,Travel,Flights,AeroJet Airlines,Flight for research trip,$550.00,Company Credit Card,Approved
+1221,2025-09-01,PROJ-001,Alpha Launch,Marketing,Marketing,Social Media Ads,SocialAds Co.,Ad budget,$300.00,Company Credit Card,Approved
+1222,2025-09-01,PROJ-002,Beta Test,Engineering,Travel,Accommodation,Hilton,Hotel stay for vendor meeting,$220.00,Company Credit Card,Approved
+1223,2025-09-02,PROJ-005,Epsilon Dev,Engineering,Supplies,Hardware,MicroElectronics,New circuit boards,$850.00,Company Credit Card,Approved
+1224,2025-09-02,PROJ-003,Gamma Integration,Sales,Software,Sales Tools,Sales Navigator,Monthly fee,$150.00,Bank Transfer,Approved
+1225,2025-09-03,PROJ-004,Delta R&D,Research,Supplies,Lab Equipment,Lab Essentials,Chemical order,$90.00,Company Credit Card,Approved
+122
